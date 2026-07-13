@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Namita",
   "bot-account": {
     "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "alpaca.aternos.host",
-    "port": 39733,
-    "version": "1.20.1",
+    "ip": "Maths_class9F.aternos.me",
+    "port": 50652,
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
